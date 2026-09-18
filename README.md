@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Bharat 👋
 
-<!--
-**bharatthokala/bharatthokala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BTech AIML Student | Aspiring AI Engineer
 
-Here are some ideas to get you started:
+I'm currently pursuing BTech in Artificial Intelligence and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+- Python
+- Java
+- Data Structures & Algorithms
+- SQL
+- Machine Learning
+- Git & GitHub
+- FastAPI
+
+## 🎯 Goals
+
+- Become an AI Engineer
+- Build real-world AI projects
+- Solve 300+ DSA problems
+- Develop strong software engineering fundamentals
+
+## 🛠️ Technologies
+
+Python • Java • SQL • Git • GitHub
+
+## 📌 Projects
+
+Coming soon...
