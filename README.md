@@ -28,3 +28,7 @@ Python • Java • SQL • Git • GitHub
 ## 📌 Projects
 
 Coming soon...
+
+## Coding Profiles
+
+-https://leetcode.com/u/Bharat_Thokala/
